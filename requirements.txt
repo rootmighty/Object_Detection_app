@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+ultralytics
+torch
+pafy
+youtube-dl
+beautifulsoup4
+requests 
